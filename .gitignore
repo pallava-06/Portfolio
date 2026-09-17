@@ -1,0 +1,31 @@
+node_modules/
+.next/
+out/
+/.pnp
+.pnp.js
+# Dependency directories
+/.yarn
+# Production build output
+/build
+# Local env files
+.env.local
+.env.development
+.env.test
+.env.production
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# OS generated files
+.DS_Store
+Thumbs.db
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Misc
+*.log
